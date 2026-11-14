@@ -1,0 +1,5 @@
+method,best_soft,mean_soft,median_soft,std_soft,worst_soft,feasible_runs,total_runs
+penalty_uniform,92.5,108.75,108.25,6.628536791781426,119.0,0,20
+repair_uniform,97.5,98.8,98.5,1.0049875621120892,100.5,20,20
+repair_one_point,97.5,98.9,99.0,1.0677078252031311,101.5,20,20
+random_baseline,98.5,104.0,104.0,2.3979157616563596,107.5,20,20

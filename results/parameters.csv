@@ -1,0 +1,13 @@
+parameter,value
+n_runs,20
+population_size,30
+evaluation_budget,300
+n_slots,10
+tournament_size,3
+crossover_probability,0.9
+mutation_probability,0.08
+elite_count,2
+hard_penalty,1000.0
+constraint_comparison,penalty vs repair
+crossover_comparison,uniform vs one_point
+baseline,random constructive search

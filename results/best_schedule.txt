@@ -1,0 +1,49 @@
+seed=202606
+crossover=uniform
+hard_conflicts=0
+soft_penalty=97.5
+
+День 1, утро
+  - Exam_07
+  - Exam_15
+
+День 1, день
+  - Exam_14
+  - Exam_17
+  - Exam_21
+
+День 2, утро
+  - Exam_01
+  - Exam_18
+
+День 2, день
+  - Exam_04
+  - Exam_19
+
+День 3, утро
+  - Exam_10
+  - Exam_23
+
+День 3, день
+  - Exam_06
+  - Exam_09
+  - Exam_20
+
+День 4, утро
+  - Exam_16
+  - Exam_24
+
+День 4, день
+  - Exam_02
+  - Exam_03
+
+День 5, утро
+  - Exam_05
+  - Exam_08
+  - Exam_11
+
+День 5, день
+  - Exam_12
+  - Exam_13
+  - Exam_22
+
