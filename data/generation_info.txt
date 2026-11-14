@@ -1,0 +1,6 @@
+DATA_SEED=202619
+N_EXAMS=24
+N_STUDENTS=160
+N_SLOTS=10
+Data are synthetic and reproducible.
+A hidden feasible schedule is used only during generation so that a feasible timetable is guaranteed to exist.
